@@ -14,4 +14,4 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" width="40" height="40" />
 </div>
 
-<small> _6 Reposetories: ◽2 public ◾4 private_ </small>
+<small> _6 Reposetories: ◽3 public ◾5 private_ </small>
