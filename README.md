@@ -16,10 +16,12 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/notepad%2B%2B-%2390E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black&logoSize=auto">
   
   <img src="https://img.shields.io/badge/LINKS-black?style=for-the-badge" /> <br>
-  <img alt="Static Badge" src="https://img.shields.io/badge/instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=white&logoSize=auto&link=https%3A%2F%2Fwww.instagram.com%2Faxe.hel%2F">
-  <img alt="Static Badge" src="https://img.shields.io/badge/HTW%20Jobb%C3%B6rse-%23C7CF00?style=for-the-badge&logoColor=white&logoSize=auto&link=https%3A%2F%2Fjobboerse.htw-dresden.de%2Fresume%2Falexander-aecst5qf0g%2F">
-
-
+  <a href="https://www.instagram.com/axe.hel/" target="_blank">
+    <img alt="Instagram Badge" src="https://img.shields.io/badge/instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://jobboerse.htw-dresden.de/resume/alexander-aecst5qf0g/" target="_blank">
+    <img alt="HTW Jobbörse" src="https://img.shields.io/badge/HTW%20Jobb%C3%B6rse-%23C7CF00?style=for-the-badge&logoColor=white">
+  </a>
 </div>
 
 <small> _10 Reposetories: ◽4 public ◾6 private_ </small>
