@@ -1,19 +1,25 @@
 <div>
-  <h5 align="left">Programming Languages:</h5> 
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" width="40" height="40"/>
-  ![C++](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=C%2B%2B&logoColor=%23A8B9CC)
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Programming_Languages-black?style=for-the-badge" /> <br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=white&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B&logoSize=white&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/gnu%20bash-%234EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto">
   
-  <h5 align="left">Frameworks & Other:</h5>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/DotNet.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Linux-Light.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/opengl/opengl-plain.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/sdl/sdl-original.svg" width="40" height="40" />
+  <img src="https://img.shields.io/badge/FRAMEWORKS%20%26%20LIBRARIES-black?style=for-the-badge" /> <br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge&logo=.net&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/opengl-%235586A4?style=for-the-badge&logo=opengl&logoColor=white&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/json-%23000000?style=for-the-badge&logo=json&logoColor=white&logoSize=auto">
+  
+  <img src="https://img.shields.io/badge/TOOLS-black?style=for-the-badge" /> <br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/git-%23F03C2E?style=for-the-badge&logo=git&logoColor=white&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/platformio-%23F5822A?style=for-the-badge&logo=platformio&logoColor=white&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/notepad%2B%2B-%2390E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black&logoSize=auto">
+  
+  <img src="https://img.shields.io/badge/LINKS-black?style=for-the-badge" /> <br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=white&logoSize=auto&link=https%3A%2F%2Fwww.instagram.com%2Faxe.hel%2F">
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTW%20Jobb%C3%B6rse-%23C7CF00?style=for-the-badge&logoColor=white&logoSize=auto&link=https%3A%2F%2Fjobboerse.htw-dresden.de%2Fresume%2Falexander-aecst5qf0g%2F">
 
-  <h5 align="left">Links:</h5>
+
 </div>
 
 <small> _10 Reposetories: ◽4 public ◾6 private_ </small>
