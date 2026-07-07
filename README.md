@@ -16,8 +16,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/platformio-%23F5822A?style=for-the-badge&logo=platformio&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/notepad%2B%2B-%2390E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black&logoSize=auto"><br>
   <img src="https://img.shields.io/badge/LINKS-black?style=for-the-badge" /> <br>
-  <a href="https://www.instagram.com/axe.hel/" target="_blank">
-    <img alt="Instagram Badge" src="https://img.shields.io/badge/instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://jobboerse.htw-dresden.de/resume/alexander-aecst5qf0g/" target="_blank">
     <img alt="HTW Jobbörse" src="https://img.shields.io/badge/HTW%20Jobb%C3%B6rse-%23C7CF00?style=for-the-badge&logoColor=white">
